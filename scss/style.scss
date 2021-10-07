@@ -1,0 +1,19 @@
+$primary:#1C1C1C; 
+$secondary:	#FFFAFA; 
+$tertiary:#0000FF;
+$quaternary:#4169E1; 
+$quinary: #008080; 
+$senary:#228B22;
+$septenary:#DAA520; 
+$octonary: #8B4513; 
+$nonary: #DC143C; 
+$denary:	#FF6347;
+
+
+.test {
+   color: $primary;
+
+   test-01 {
+      color: $tertiary;
+   }
+}
